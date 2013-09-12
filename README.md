@@ -3,7 +3,7 @@
 As part of the Cornell Cup USA embedded design competition (sponsored by Intel and Cornell University), a team of CS and ECE students from Oregon State University built a completely re-designed car dashboard interface. By replacing the gauge cluster with a computerized screen, and moving all the controls of the vehicle onto the steering wheel, the team was able to provide a modern and safety focused driver experience. The project received a Distinguish Recognition (Honorable Mention) award at the competition held at Walt Disney World in Florida.
 
 ###Project Report
-- Overview Poster
+- [Overview Poster](metroswift_poster.pdf?raw=true)
 - Final Report
 - Final Presentation
 - [Cornell Team Blog Site](http://blogs.cornell.edu/cornellcup2013metroswift/)
