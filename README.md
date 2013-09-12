@@ -1,11 +1,11 @@
-#Cornell Cup 2013 - Team Metroswift
+#Cornell Cup 2013 - Team MetroSwift
 
 As part of the Cornell Cup USA embedded design competition (sponsored by Intel and Cornell University), a team of CS and ECE students from Oregon State University built a completely re-designed car dashboard interface. By replacing the gauge cluster with a computerized screen, and moving all the controls of the vehicle onto the steering wheel, the team was able to provide a modern and safety focused driver experience. The project received a Distinguish Recognition (Honorable Mention) award at the competition held at Walt Disney World in Florida.
 
 ###Project Report
 - [Overview Poster](metroswift_poster.pdf?raw=true)
-- Final Report
-- Final Presentation
+- [Final Report](metroswift_report.pdf?raw=true)
+- [Final Presentation](metroswift_presentation.pdf?raw=true)
 - [Cornell Team Blog Site](http://blogs.cornell.edu/cornellcup2013metroswift/)
 
 ###The Team
@@ -13,7 +13,7 @@ As part of the Cornell Cup USA embedded design competition (sponsored by Intel a
 - Steven Reid ([@sreid](https://github.com/sreid))
 - Patrick Simonson
 - David Taylor
-- Mentor: Kevin McGrath
+- Advisor: Kevin McGrath
 
 ###Code
 Project was built primarily in C++ using the Qt framework. Code is currently not online, but if you have questions, feel free to send a note to [@sreid](https://github.com/sreid).
