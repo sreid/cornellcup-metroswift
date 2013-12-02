@@ -19,7 +19,7 @@ As part of the Cornell Cup USA embedded design competition (sponsored by Intel a
 Project was built primarily in C++ using the Qt framework. Code is currently not online, but if you have questions, feel free to send a note to [@sreid](https://github.com/sreid).
 
 ###Video
-The OSU College of Engineering shot a brief story with a demo during the 2013 Engineering Expo. Watch it here:  
+The OSU College of Engineering shot a brief story with a demo during the 2013 Engineering Expo. Watch it here, but note that at the end, Steven & Patrick's names are swapped:  
 https://www.youtube.com/watch?v=urqvroLTs3s
 
 ###Media Coverage
